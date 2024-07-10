@@ -1,0 +1,298 @@
+.azeret-mono-des {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+  }
+  
+  .dark2{
+      color: #0D1321;
+  }
+  
+  .btnclass{
+      color: #FFFFFF;
+      background-color: #0D1321;
+      padding: 20px 25px;
+      gap: 10px;
+      font-weight: bold;
+      font-size: 20px;
+      border-radius: 8px;
+      display: block;
+      margin: auto;  
+      margin-bottom: 45px;  
+  }
+  .bannerin{
+      font-weight: 800px;
+      font-size: 48px;
+      color: #0D1321;
+      text-align: center;
+  }
+  .bannerdis{
+      font-size: 16px;
+      text-align: center;
+  
+  }
+  .image{
+      width: 240.28px;
+      height: 240px;
+      
+  }
+  section{
+    display: grid;
+    place-items: center;
+    margin-top: 157px;
+  }
+  .background{
+    background-image: url('Hero-bg.png');
+    margin-bottom: 45px;
+   
+  }
+
+  .section-title{
+    font-size: 32px;
+    font-weight: 800px;
+    color: #0D1321;
+  }
+
+  section-dis{
+    font-size: 16px;
+    color: #0D1321;
+
+  }
+  .dis{
+    font-size: 24px;
+    font-weight: bold;
+    color: #0D1321;
+
+  }
+  section{
+    margin-bottom: 50px;
+  }
+ .change{
+  font-size: 24px;
+  font-weight: bold;
+  color: #0D1321;
+ }
+ .chg{
+  font-size: 16px;
+  color: #0D1321;
+  
+ }
+ .bt{
+  gap:  10px;
+  padding: 12px 20px;
+ }
+ .flexible{
+  display: flex;
+  justify-content: space-between;
+ }
+ .new{
+  font-size: 32px;
+  font-weight: 800px;
+ }
+
+ .video{
+  width: 1076px;
+  height: 550px;
+  border-radius: 16px;
+  text-align: right;
+ }
+ .target{
+  font-size: 32px;
+  font-weight: 900px;
+ }
+ .skills-container{
+  display: flex;
+  gap: 24px;
+ }
+ .skill1{
+  background-color: antiquewhite;
+  padding: 40px 40px;
+  gap: 32px;
+  border-radius: 16px;
+ }
+ .skill2{
+  background-color: aliceblue;
+  padding: 40px 40px;
+  gap: 32px;
+  border-radius: 16px;
+ }
+ .skill3{
+  background-color: beige;
+  padding: 40px 40px;
+  gap: 32px;
+  border-radius: 16px;
+ }
+ .skill12{
+  background-color:  #FFFFFF;
+  padding: 40px 40px;
+  gap: 32px;
+  border-radius: 16px;
+  display: flex;
+  
+ }
+ .skill13{
+  background-color:  #FFFFFF;
+  padding: 40px 40px;
+  gap: 32px;
+  border-radius: 16px;
+  display: flex;
+ }
+ .skill14{
+  background-color:  #FFFFFF;
+  padding: 40px 40px;
+  gap: 32px;
+  border-radius: 16px;
+  display: flex;
+ }
+
+ .backslash{
+  background-image: url('handshake.jpg');
+  width: 840px 313px;
+  gap: 32px;
+  padding: 64px 48px;
+  margin-bottom: 170px;
+  margin-left: 132px;
+  margin-right: 168px;
+  border-radius: 16px;
+}
+.newo{
+font-size: 32px;
+font-weight: bold;
+color: #FFFFFF;
+margin-top: 64px;
+margin-bottom: 64px;
+margin-right: 48px;
+margin-left: 48px;
+text-align: center;
+}
+.gape{
+font-size: 16px;
+margin-top: 16px;
+color: #FFFFFF;
+text-align: center;
+}
+
+
+.see{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.final{
+
+height: 57px;
+padding: 19px 20px;
+color: #FFFFFF;
+border-radius: 8px;
+
+margin-top: 19px;
+
+}
+
+
+
+
+ .why-web-development {
+  max-width: 1140px;
+  margin: auto;
+  background: rgba(13, 19, 33, 0.02);
+  padding: 80px 97px;
+  margin-top: 74px;
+}
+
+.why-web-development>h3 {
+  text-align: center;
+  color: #0D1321;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.why-web-development>p {
+  text-align: center;
+  color: #0D1321;
+  font-size: 16px;
+  padding-top: 24px;
+  max-width: 852px;
+}
+
+.cards {
+  padding-top: 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.cards .card {
+  background: linear-gradient(90deg, white 0%, rgba(255, 255, 255, 0) 100%);
+  padding: 48px;
+  max-width: 946px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 16px;
+}
+
+.cards .card-right {
+  background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%);
+  justify-content: unset;
+  gap: 32px;
+}
+
+.cards .card .left {
+  max-width: 477px;
+}
+
+.cards .card h3 {
+  color: #0D1321;
+  font-size: 24px;
+  font-weight: 700;
+  max-width: 390px;
+  padding-bottom: 16px;
+}
+
+.cards .card-right h3{
+  max-width: 477px;
+}
+
+.cards .card p {
+  color: #0D1321;
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 32px;
+}
+
+.cards .card button {
+  border: 1px #0D1321 solid;
+  padding: 12px 20px;
+  outline: none;
+  background-color: #fff;
+  color: #0D1321;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.he{
+  font-size: 20px;
+  font-weight: 700px;
+  border-radius: 16px;
+  gap:  32px;
+  padding: 32px 150px;
+  
+}
+.big{
+  display: flex;
+  gap: 10px;
+
+}
+.flex{
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 40px;
+  gap: 32px;
+  border-radius: 16px;
+}
